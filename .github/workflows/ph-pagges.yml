@@ -5,6 +5,9 @@ on:
     branches:
       - bootstrap-hugo
 
+permissions:
+  contents: write
+
 jobs:
   build-deploy:
     runs-on: ubuntu-24.04
