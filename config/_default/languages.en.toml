@@ -22,7 +22,8 @@ title = "Blowfish"
   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
-      { github = "https://github.com/TariqueNasrullah" }
+      { github = "https://github.com/TariqueNasrullah" },
+      { apple = "https://www.apple.com" }
   ]
 
 #   links = [
