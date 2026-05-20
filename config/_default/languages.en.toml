@@ -15,12 +15,16 @@ title = "Blowfish"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
- name = "Tarique Nasrullah"
- email = "nasrullahtarique@gmail.com"
- image = "https://avatars.githubusercontent.com/u/20097844?v=4"
- imageQuality = 96
- headline = "I'm only human"
- bio = "A little bit about you"
+  name = "Tarique Nasrullah"
+  email = "nasrullahtarique@gmail.com"
+  image = "https://avatars.githubusercontent.com/u/20097844?v=4"
+  imageQuality = 96
+  headline = "I'm only human"
+  bio = "A little bit about you"
+  links = [
+      { github = "https://github.com/TariqueNasrullah" }
+  ]
+
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
