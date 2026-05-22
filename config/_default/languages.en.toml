@@ -23,7 +23,7 @@ title = "Blowfish"
   bio = "A little bit about you"
   links = [
       { github = "https://github.com/TariqueNasrullah" },
-      { apple = "https://www.apple.com" }
+      { linkedin = "https://linkedin.com/in/tarique-nasrullah" }
   ]
 
 #   links = [
